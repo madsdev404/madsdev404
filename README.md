@@ -33,7 +33,9 @@ I believe in building meaningful, user-centric products and I'm currently focuse
 ## | Project | Description | Tech Stack |
 
 | [**TaskNest**](https://github.com/madsdev404/task_management) | Full-featured task manager with user roles and email integration. | Django, PostgreSQL, Tailwind |
+
 | [**MRmealBD**](https://github.com/madsdev404/MRmealBD) | A multi-language food delivery app. | React Native, Firebase |
+
 | [**WhatsApp Clone**](https://github.com/madsdev404/whatsapp-clone) | Real-time messaging clone with Clerk auth. | Expo, Clerk, Gifted Chat |
 
 ---
