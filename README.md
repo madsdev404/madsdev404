@@ -117,7 +117,9 @@
 
 **Based in Khulna, Bangladesh** - Open to remote collaboration worldwide.
 
-[Click to view an interactive map of the location](.github/khulna_location.geojson)
+<p align="center">
+  <img src="https://img.leko.us/map/city/Khulna" alt="Map of Khulna" width="400"/>
+</p>
 
 ---
 
