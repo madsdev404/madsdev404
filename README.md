@@ -117,9 +117,21 @@
 
 **Based in Khulna, Bangladesh** - Open to remote collaboration worldwide.
 
-<p align="center">
-  <img src="https://img.leko.us/map/city/Khulna" alt="Map of Khulna" width="400"/>
-</p>
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [89.5403, 22.8456]
+      }
+    }
+  ]
+}
+```
 
 ---
 
