@@ -26,3 +26,4 @@ jobs:
           author_email: 41898282+github-actions[bot]@users.noreply.github.com
           message: "chore: generate snake animation"
           add: "dist/*"
+          ref: main
