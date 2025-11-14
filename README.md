@@ -126,7 +126,7 @@
       "properties": {},
       "geometry": {
         "type": "Point",
-        "coordinates": [89.5403, 22.8456]
+        "coordinates": [89.0424, 23.6568]
       }
     }
   ]
