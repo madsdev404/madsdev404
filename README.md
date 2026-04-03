@@ -83,7 +83,6 @@
 
 ---
 
-<!--
 ## 📈 GitHub Stats
 
 ![madsdev404's GitHub stats](https://github-readme-stats.vercel.app/api?username=madsdev404&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true)
@@ -107,8 +106,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madsdev404&repo=task_management&theme=github_dark" alt="TaskNest" />
   </a>
 </p>
-
---- -->
 
 ## 🌐 Connect With Me
 
