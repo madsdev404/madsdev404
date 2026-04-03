@@ -100,6 +100,7 @@
 
 ---
 
+<!--
 ## 📂 Projects I'm Proud Of
 
 <p align="center">
@@ -109,7 +110,7 @@
   <a href="https://github.com/madsdev404/task_management">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madsdev404&repo=task_management&theme=github_dark" alt="TaskNest" />
   </a>
-</p>
+</p> -->
 
 ## 🌐 Connect With Me
 
