@@ -86,18 +86,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madsdev404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="madsdev404's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madsdev404&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madsdev404&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=madsdev404&theme=github_dark&hide_border=true" alt="madsdev404's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsdev404&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=madsdev404&theme=github_dark" alt="madsdev404" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madsdev404&theme=github_dark" alt="Profile Details" />
 </p>
 
 ---
