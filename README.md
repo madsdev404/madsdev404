@@ -86,8 +86,8 @@
 <!--
 ## 📈 GitHub Stats
 
-![madsdev404's GitHub stats](https://github-readme-stats.vercel.app/api?username=madsdev404&show_icons=true&theme=github_dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madsdev404&layout=compact&theme=github_dark)
+![madsdev404's GitHub stats](https://github-readme-stats.vercel.app/api?username=madsdev404&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madsdev404&layout=compact&theme=github_dark&hide_border=true)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
