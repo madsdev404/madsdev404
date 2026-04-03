@@ -85,8 +85,14 @@
 
 ## 📈 GitHub Stats
 
-![madsdev404's GitHub stats](https://github-readme-stats.vercel.app/api?username=madsdev404&show_icons=true&theme=github_dark&hide_title=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madsdev404&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madsdev404&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="madsdev404's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madsdev404&theme=github_dark&hide_border=true" alt="madsdev404's Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madsdev404&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Langs" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -99,8 +105,8 @@
 ## 📂 Projects I'm Proud Of
 
 <p align="center">
-  <a href="https://github.com/madsdev404/blogs-galaxy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madsdev404&repo=blogs-galaxy&theme=github_dark" alt="Blogs Galaxy" />
+  <a href="https://github.com/madsdev404/Blogs-Galaxy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madsdev404&repo=Blogs-Galaxy&theme=github_dark" alt="Blogs Galaxy" />
   </a>
   <a href="https://github.com/madsdev404/task_management">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madsdev404&repo=task_management&theme=github_dark" alt="TaskNest" />
