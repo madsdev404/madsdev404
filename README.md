@@ -80,6 +80,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google%20Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
 
@@ -134,13 +136,29 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#e74c3c",
+        "marker-size": "medium"
+      },
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          89.0424,
-          23.6568
-        ]
+        "coordinates": [89.0424, 23.6568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "fill-opacity": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [88.54, 23.15],
+          [89.54, 23.15],
+          [89.54, 24.15],
+          [88.54, 24.15],
+          [88.54, 23.15]
+        ]]
       }
     }
   ]
